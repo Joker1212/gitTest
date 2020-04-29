@@ -1,2 +1,2 @@
 helorld!s is a test for git
-conflict
+mergeconflict
