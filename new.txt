@@ -1,2 +1,2 @@
 hello world!s is a test for git
-merge conflict
+mergeflict
