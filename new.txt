@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 helorld!s is a test for git
 mergeconflict
+=======
+hello world!s is a test for git
+mergeflict
+>>>>>>> slave
